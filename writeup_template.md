@@ -19,7 +19,8 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. The process of finding the lane line on the road are complicated. In order to archieve this result,
+### 1. Pipeline
+The process of finding the lane line on the road are complicated. In order to archieve this result,
 I need to process images four steps. First, I converted the image into graysale mode, then I convert to canny 
 edge, after that I set the region of the processing image; finally, I draw the left line and right line for the 
 line on the road.
@@ -39,12 +40,10 @@ The pipeline produced the following images:
 
 
 
-### 2. There is potential shortcomings with this current pipeline. On the output video from the processing, the 
-annotation on the lane line is shaking. Another shortcoming could be on the different light condition of the road, the program will get error.
+### 2. There is potential shortcomings with this current pipeline
+There is potential shortcomings with this current pipeline. On the output video from the processing, the annotation on the lane line is shaking. Another shortcoming could be on the different light condition of the road, the program will get error.
 
-
-
-### 3. Suggest possible improvements to your pipeline
+### 3. Improvement
 
 A possible improvement would be to adapt to all the light condition on the road. The program should be flexible enough to adapt to all condition of the light on the road.
 
