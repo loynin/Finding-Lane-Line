@@ -15,13 +15,6 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
-[//]: # (Image References)
-
-[image1]: test_videos_output/grayscale.png "Grayscale"
-[image2]: /test_videos_output/canny.png "Canny Image"
-[image3]: /test_videos_output/regional_masked.png "Selected Regional Masked Image"
-[image4]: /test_videos_output/annotationline.png "Final Image After Line is Marked"
 ---
 
 ### Reflection
@@ -39,10 +32,10 @@ equation.
 The pipeline produced the following images:
 
 
-![Grayscale](test_videos_output/grayscale.png)
-![Canny Edge image](test_videos_output/canny.png)
-![Selected Regional Masked Image](test_videos_output/regional_masked.png)
-![Annotation Line on Lane Line](test_videos_output/annotationline.png)
+![Grayscale](test_videos_output/grayscale.png?raw=true)
+![Canny Edge image](test_videos_output/canny.png?raw=true)
+![Selected Regional Masked Image](test_videos_output/regional_masked.png?raw=true)
+![Annotation Line on Lane Line](test_videos_output/annotationline.png?raw=true)
 
 
 
