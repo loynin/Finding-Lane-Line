@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /test_videos_output/grayscale.png "Grayscale"
+[image1]: test_videos_output/grayscale.png "Grayscale"
 [image2]: /test_videos_output/canny.png "Canny Image"
 [image3]: /test_videos_output/regional_masked.png "Selected Regional Masked Image"
 [image4]: /test_videos_output/annotationline.png "Final Image After Line is Marked"
@@ -39,10 +39,10 @@ equation.
 The pipeline produced the following images:
 
 
-![Grayscale image][image1]
-![Canny Edge image][image2]
-![Selected Regional Masked Image][image3]
-![Annotation Line on Lane Line][image4]
+![Grayscale](test_videos_output/grayscale.png)
+![Canny Edge image](test_videos_output/canny.png)
+![Selected Regional Masked Image](test_videos_output/regional_masked.png)
+![Annotation Line on Lane Line](test_videos_output/annotationline.png)
 
 
 
