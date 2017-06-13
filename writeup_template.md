@@ -18,10 +18,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_videos_output/grayscale.png "Grayscale"
-[image2]: ./test_videos_output/canny.png "Canny Image"
-[image3]: ./test_videos_output/regional_masked.png "Selected Regional Masked Image"
-[image4]: ./test_videos_output/annotationline.png "Final Image After Line is Marked"
+[image1]: /test_videos_output/grayscale.png "Grayscale"
+[image2]: /test_videos_output/canny.png "Canny Image"
+[image3]: /test_videos_output/regional_masked.png "Selected Regional Masked Image"
+[image4]: /test_videos_output/annotationline.png "Final Image After Line is Marked"
 ---
 
 ### Reflection
